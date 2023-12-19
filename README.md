@@ -13,7 +13,7 @@ Projeto 2 do Curso Explorer realizado através da plataforma da Rockeatseat. <br
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/projeto02.png" width="100%">
+  <img alt="projeto Treine.me" src=".github/projeto02.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
